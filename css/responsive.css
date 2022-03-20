@@ -523,7 +523,7 @@ footer h6 {
 	width: 50%;
 }
 .simple-head {
-	min-height: 800px;
+	min-height: 100%;
 }
 #particles-js{
 	position:absolute;
