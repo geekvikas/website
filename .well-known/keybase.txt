@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/burnlyadmin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://burn.ly
+  * I am burnlyadmin (https://keybase.io/burnlyadmin) on keybase.
+  * I have a public key ASB_7i0Cu8FG8fuPnODPzH0pdFIJU9wtsWx2NeSKhb60xwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207fee2d02bbc146f1fb8f9ce0cfcc7d2974520953dc2db16c7635e48a85beb4c70a",
+      "host": "keybase.io",
+      "kid": "01207fee2d02bbc146f1fb8f9ce0cfcc7d2974520953dc2db16c7635e48a85beb4c70a",
+      "uid": "d696cf461b294d9037fe88dfd13f3a19",
+      "username": "burnlyadmin"
+    },
+    "merkle_root": {
+      "ctime": 1648161120,
+      "hash": "ab8bade3d0dbf67be6d3d82cc1ddae96234c9b59a12ff648c75b3d0a433757026091bb365a72d9f29352ec7f1d927b48fa931c6889787360bfbf9f210e48d5e0",
+      "hash_meta": "3991eeedb3aa3da9b45fe730acd19813563a38f209669d517cdefd509ff90d06",
+      "seqno": 22155456
+    },
+    "service": {
+      "entropy": "RwYXY+IeaMYv8HEd0j1AdMyt",
+      "hostname": "burn.ly",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1648161186,
+  "expire_in": 504576000,
+  "prev": "b71f75df9a04d8167cb8bc5c02deaba0b113f8f86ae3c7109ef18b6554ef60b1",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgf+4tArvBRvH7j5zgz8x9KXRSCVPcLbFsdjXkioW+tMcKp3BheWxvYWTESpcCCMQgtx9135oE2BZ8uLxcAt6roLET+Phq48cQnvGLZVTvYLHEIC2MFc6Ts04LMxr80dYL62H5yWgKpZT5B7hosocHjn1/AgHCo3NpZ8RA7IH+/fzbGueYzSPfnZxr4jEufgM7AzjbOcUI7INioZ9kIAlJ4B9T0ujevAi7pPdMIEl6Qi3CTXJzpd4AxpTVBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKoxZSUYUbck4DcmtUJra436hUxbdRCnl2J2xYlLqZOio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/burnlyadmin
+
+==================================================================
