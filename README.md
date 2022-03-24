@@ -19,7 +19,7 @@ Currently, we have our “core” token or the “fuel” to the fire $BURNLY av
 This is the token that will be at the heart of providing consensus, consider it in easy terms a Gas Fee on Ethereum. The magical mystical feature of this token is that it cannot be transferred, cannot be traded. Only the wallet that earned it gets to keep it. The only purpose of this token is to provide consensus and mine for blocks. This sounds similar to staking but we are NOT holding your $BURNLY hostage.
 
 # System Architecture
-![image](https://user-images.githubusercontent.com/100121657/159417941-71df15d9-0275-4390-b35f-7d3f91e711ef.png)
+![image](https://burn.ly/images/architecture.jpg)
 
 It starts with a wallet loaded with $BURNLY that you can buy/sell today easily on [ShibaSwap](https://burn.ly/trade) (DEX). Upon the launch of #testnet and similarly, by #mainnet, you will be given an opportunity window to send your $BURNLY (ERC20) tokens to a special address.
 
